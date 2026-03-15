@@ -2,11 +2,11 @@
 
 **Never miss a Claude Code response again.**
 
-A tiny Windows system tray app that beeps when Claude Code's desktop app flashes in the taskbar — so you can alt-tab away and work on other things without constantly checking if Claude is done.
+A tiny Windows system tray app that beeps when Claude Code's desktop app flashes in the taskbar — so you can afk without constantly checking if Claude is done.
 
 ## The Problem
 
-Claude Code (desktop app) flashes its taskbar icon when it has a response ready, but there's no sound. If you're working in another window, you have to keep glancing at the taskbar to see if Claude is done. This is annoying.
+Claude Code (desktop app) flashes its taskbar icon when it has a response ready, but there's no sound. If you're afk, you have to keep glancing over at the computer's taskbar to see if Claude is done. This is annoying.
 
 ## The Solution
 
